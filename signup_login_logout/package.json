@@ -1,0 +1,25 @@
+{
+  "name": "signup_login_logout",
+  "version": "1.0.0",
+  "description": "signup_login_logout API for x-manage",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=production node index",
+    "dev": "cross-env NODE_ENV=development nodemon index"
+  },
+  "author": "Kezia Wangeci",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20", 
+    "cross-env": "^7.0.3"
+  }
+}
