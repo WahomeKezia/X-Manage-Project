@@ -6,7 +6,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   </div>
+  
+  ---
+  
 # x-manage-project
+
 A full stack project management platform 
 
 Video Walkthough : https://drive.google.com/drive/u/1/folders/10uDjkuF3PVgUeok8D9gGiYYdpLh7rrgR 
