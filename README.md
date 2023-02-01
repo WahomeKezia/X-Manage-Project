@@ -11,6 +11,8 @@
   
 # x-manage-project
 
-A full MERN stack project management platform 
+A full MERN stack Project Management Platform 
+
+Find the Figma design here: https://www.figma.com/file/XxOVSSYK7QSDBkKbAAXj6B/X-Manage_Prototype?node-id=89%3A2&t=QsoT1jXsrdOweymV-1
 
 Video Walkthough : https://drive.google.com/drive/u/1/folders/10uDjkuF3PVgUeok8D9gGiYYdpLh7rrgR 
